@@ -55,8 +55,7 @@ README.md
 architecture.md
 rental_core.py
 demo.py
-tests/
-  test_rental_core.py
+test_rental_core.py
 ```
 
 ## Почему production-код закрыт
