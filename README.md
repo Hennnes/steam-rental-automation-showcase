@@ -44,7 +44,7 @@ FunPay/Cardinal · Steam Guard · Google Sheets API · JSON/Excel tracking
 Требуется Python 3.11+.
 
 ```bash
-python -m unittest discover -s tests -v
+python -m unittest -v test_rental_core.py
 python demo.py
 ```
 
